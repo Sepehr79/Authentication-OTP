@@ -17,3 +17,12 @@ via email. The whole project consists of three services:
     ![](./etc/4.png)
 5. Send JWT and get the response!
     ![](./etc/5.png)
+
+### How to use?
+
+1. Install Docker
+2. Clone the project
+3. Execute the following command:
+   ```
+   docker-compose up -d
+   ```
