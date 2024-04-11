@@ -22,6 +22,9 @@ via email. The whole project consists of three services:
 
 1. Install Docker
 2. Clone the project
+   ```
+   git clone https://github.com/Sepehr79/Authentication-OTP.git
+   ```
 3. Execute the following command:
    ```
    docker-compose up -d
